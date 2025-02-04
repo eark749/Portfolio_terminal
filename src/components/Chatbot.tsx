@@ -23,7 +23,7 @@ const commandHelp = {
 };
 
 const openai = new OpenAI({
-  apiKey: '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',
+  apiKey: '',
   dangerouslyAllowBrowser: true
 });
 
